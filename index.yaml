@@ -9,6 +9,6 @@ entries:
     name: helm-chart
     type: application
     urls:
-    - https://github.com/Manigandan24/helm-chart/helm-chart-0.1.0.tgz
+    - https://Manigandan24.github.io/helm-chart/helm-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2021-01-25T22:56:06.5545131+05:30"
