@@ -3,12 +3,12 @@ entries:
   helm-chart:
   - apiVersion: v2
     appVersion: v1
-    created: "2021-01-25T22:56:07.3855196+05:30"
+    created: "2021-01-25T23:55:26.9852849+05:30"
     description: Helm chart for spring boot rest api
-    digest: fa83774df26c47ae082eb0d26141da9f303b43a6ed5c9201285368899d31eb71
+    digest: a5baefb3f724cbf073946dae5265c6a5a0d95dd8c5c716f9b1300251c47b0c4b
     name: helm-chart
     type: application
     urls:
     - https://Manigandan24.github.io/helm-chart/helm-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2021-01-25T22:56:06.5545131+05:30"
+generated: "2021-01-25T23:55:26.8552836+05:30"
