@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-chart:
+  - apiVersion: v2
+    appVersion: v1
+    created: "2021-01-25T22:56:07.3855196+05:30"
+    description: Helm chart for spring boot rest api
+    digest: fa83774df26c47ae082eb0d26141da9f303b43a6ed5c9201285368899d31eb71
+    name: helm-chart
+    type: application
+    urls:
+    - https://github.com/Manigandan24/helm-chart/helm-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-25T22:56:06.5545131+05:30"
